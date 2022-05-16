@@ -31,3 +31,4 @@
 5. Run `main.py`
 6. Login to spotify and give required permissions
 
+![Preview](https://user-images.githubusercontent.com/48463140/168524278-495d8866-bb86-4b0a-980b-911808c99d15.png)
