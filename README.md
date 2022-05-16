@@ -19,7 +19,11 @@
 - Shuffling / looping
 - Change playback device
 
-## Installation / Usage
+## Installation.
+1. Install PyQt5 ( ` pip install PyQt5 ` )
+2. Install Spotipy ( ` pip install spotipy ` )
+
+## First time steps
 1. Make a spotify developer app ( https://developer.spotify.com/dashboard/ )
 2. Get a client secret and token
 3. Set redirect URL to `http://127.0.0.1:8000`
