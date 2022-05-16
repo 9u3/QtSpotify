@@ -12,8 +12,8 @@ import threading
 
 scope = "user-read-currently-playing,user-read-playback-state,user-modify-playback-state,playlist-read-private"
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="06b55ab3a6d54fb0bb9fbafd25499978",
-                                               client_secret="7ac2e2df3efb45e28e0515fbe0d238ac",
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="ID",
+                                               client_secret="SECRET",
                                                redirect_uri="http://127.0.0.1:8000", scope=scope))
 
 playlistIndex = {}
@@ -225,12 +225,3 @@ thread = threading.Thread(target=fset, args=(1,))
 thread.start()
 
 sys.exit(app.exec_())
-
-
-
-
-
-
-
-
-
