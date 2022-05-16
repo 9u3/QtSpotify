@@ -2,6 +2,8 @@
 
 ## A Spotify player made entirely using PyQt5 and Spotipy.
 
+![Preview](https://user-images.githubusercontent.com/48463140/168524278-495d8866-bb86-4b0a-980b-911808c99d15.png)
+
 ## Notes
 - You need premium to take full advantage of this program.
 
@@ -30,5 +32,3 @@
 4. Add them to `main.py` in the correct place
 5. Run `main.py`
 6. Login to spotify and give required permissions
-
-![Preview](https://user-images.githubusercontent.com/48463140/168524278-495d8866-bb86-4b0a-980b-911808c99d15.png)
