@@ -4,6 +4,9 @@
 
 ![Preview](https://user-images.githubusercontent.com/48463140/168524278-495d8866-bb86-4b0a-980b-911808c99d15.png)
 
+# Warning
+This project is extremely outdated, most of the api has been updated and because of that, this project barely functions at all anymore.
+
 ## Notes
 - You need premium to take full advantage of this program.
 
